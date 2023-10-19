@@ -10,7 +10,7 @@ The code contains the GNU Radio Companion Code that implements a holographic rad
    The following blocks were used to perform the holographic radar. Modifications should be performed in case of different frequencies.
 
      
-![FotoRadar](https://github.com/mperoconsult/USRPLatam/assets/146825351/5a3650c0-d294-4b97-9981-398a8194ac11)
+![FotoRadar](https://github.com/mperoconsult/USRPLatam/assets/146825351/5a3650c0-d294-4b97-9981-398a8194ac11 =250x250)
 
 3. **Requirements**
    Windows or Linux OS, the main bottleneck is the USB port type, preferred 3.0. In case the USRP sample rate is set too high, samples might be lost.
