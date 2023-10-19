@@ -19,3 +19,4 @@ The code contains the GNU Radio Companion Code that implements a holographic rad
 
 5. **Screenshots**
 ![GnuRadioOtreScreenshot](https://github.com/mperoconsult/USRPLatam/assets/146825351/3266bac9-177b-4e1b-9500-3a5149616b94)
+![Target_IFFT](https://github.com/mperoconsult/USRPLatam/assets/146825351/a89e397b-c297-4bf3-8487-be81b9c1622d)
